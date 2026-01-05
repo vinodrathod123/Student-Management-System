@@ -1,13 +1,13 @@
-## Student Management System (Core Java)
+## Student Management System
 
 A console-based Student Management System** developed using Core Java.  
-This project allows users to manage student records efficiently by performing CRUD operations (Create, Read, Update, Delete) using **Object-Oriented Programming (OOP) principles.
+This project allows users to manage student records efficiently by performing CRUD operations (Create, Read, Update, Delete) using Object-Oriented Programming (OOP) principles.
 
 ---
 
 ## Project Overview
 The Student Management System is a menu-driven Java application that helps manage basic student information such as ID, name, age, and course.  
-It demonstrates strong fundamentals in Java, OOP concepts, and data handling using ArrayList**.
+It demonstrates strong fundamentals in Java, OOP concepts, and data handling using ArrayList.
 
 ---
 
@@ -25,8 +25,8 @@ It demonstrates strong fundamentals in Java, OOP concepts, and data handling usi
 - Programming Language: Java (Core Java)
 - Concepts: OOP (Encapsulation, Classes & Objects)
 - Data Structure: ArrayList
-- IDE:** IntelliJ IDEA
-- Version Control:** Git & GitHub
+- IDE: IntelliJ IDEA
+- Version Control: Git & GitHub
 
 ---
 
