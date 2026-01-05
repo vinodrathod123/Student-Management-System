@@ -11,7 +11,7 @@ It demonstrates strong fundamentals in Java, OOP concepts, and data handling usi
 
 ---
 
-## 🚀 Features
+## Features
 - Add new student records
 - View all student details
 - Update student information by ID
@@ -21,7 +21,7 @@ It demonstrates strong fundamentals in Java, OOP concepts, and data handling usi
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Programming Language: Java (Core Java)
 - Concepts: OOP (Encapsulation, Classes & Objects)
 - Data Structure: ArrayList
@@ -38,7 +38,7 @@ It demonstrates strong fundamentals in Java, OOP concepts, and data handling usi
 
 ---
 
-##  Project Directory Structure
+## Project Directory Structure
     Student-Management-System/
 ├── src/
 │ ├── Student.java
