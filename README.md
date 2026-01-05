@@ -1,6 +1,6 @@
 ## Student Management System
 
-A console-based Student Management System** developed using Core Java.  
+A console-based Student Management System developed using Core Java.  
 This project allows users to manage student records efficiently by performing CRUD operations (Create, Read, Update, Delete) using Object-Oriented Programming (OOP) principles.
 
 ---
